@@ -34,8 +34,8 @@ The model:
 * Minimizes total cost, especially overtime
 ##  Optimization Approach
 
-![Model](images/your-approach-image.png)
----
+
+![Solution](images/Solution.png)
 
 ##  Optimization Model
 
@@ -77,7 +77,7 @@ Minimize:
 * Demonstrated impact of setup sequencing on efficiency
 ##  Model Results
 
-![Results](images/your-results-image.png)
+![Results](images/Result.png)
 ---
 
 ##  My Contribution
@@ -107,7 +107,7 @@ Minimize:
 ---
 ##  Key Insights
 
-![Insights](images/your-insights-image.png)
+![Insights](images/final%20Insight.png)
 ##  Future Scope
 
 * Real-time production planning integration
