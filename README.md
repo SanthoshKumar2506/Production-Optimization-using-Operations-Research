@@ -17,7 +17,9 @@ Falcon Die Casting Company faced inefficiencies in production planning due to:
 * Uneven overtime distribution increasing labor costs
 
 These challenges led to increased operational costs and risk of unmet demand.
+## Problem Context
 
+![Problem](images/your-problem-image.png)
 ---
 
 ##  Solution Approach
@@ -30,7 +32,9 @@ The model:
 * Considers **setup time, yield loss, and capacity constraints**
 * Optimizes across **multiple time periods**
 * Minimizes total cost, especially overtime
+##  Optimization Approach
 
+![Model](images/your-approach-image.png)
 ---
 
 ##  Optimization Model
@@ -71,7 +75,9 @@ Minimize:
 * Identified **capacity shortfalls in high-demand weeks**
 * Highlighted opportunity to use **multi-week planning for cost savings**
 * Demonstrated impact of setup sequencing on efficiency
+##  Model Results
 
+![Results](images/your-results-image.png)
 ---
 
 ##  My Contribution
@@ -99,7 +105,9 @@ Minimize:
 * Demand and capacity data
 
 ---
+##  Key Insights
 
+![Insights](images/your-insights-image.png)
 ##  Future Scope
 
 * Real-time production planning integration
