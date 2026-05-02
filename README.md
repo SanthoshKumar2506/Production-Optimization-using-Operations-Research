@@ -17,9 +17,9 @@ Falcon Die Casting Company faced inefficiencies in production planning due to:
 * Uneven overtime distribution increasing labor costs
 
 These challenges led to increased operational costs and risk of unmet demand.
-## Problem Context
+##  Problem Context
 
-![Problem](images/your-problem-image.png)
+![Problem](images/problem.png)
 ---
 
 ##  Solution Approach
